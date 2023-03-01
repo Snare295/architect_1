@@ -18,7 +18,4 @@ func main() {
 		log.Fatal(err)
 	}
 }
-
-
-This is for 1 com
-This is for 2 cum
+this row is used for checking rebase work
