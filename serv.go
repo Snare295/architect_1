@@ -10,7 +10,6 @@ const (
 	PATH = "/time"
 	PORT = ":8795"
 )
-
 func main() {
 	http.HandleFunc(PATH, TimeHandler)
 	fmt.Printf("Starting server at port %s", PORT)
