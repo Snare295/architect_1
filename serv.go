@@ -21,4 +21,3 @@ func main() {
 }
 This is for 1 com
 This is for 2 cum
-THIS IS FOR 3 CUM
